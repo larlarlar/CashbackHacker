@@ -10,12 +10,12 @@ public class CashbackHackerServiceTest {
 
     @Test
     public void shouldAdviceHundred() {
-        assertEquals(service.remain(900),100);
+        assertEquals(100, service.remain(900));
     }
 
 
     @Test
     public void shouldnotAdvice() {
-        assertEquals(service.remain(1000),0);
+        assertEquals(0, service.remain(1000));
     }
 }

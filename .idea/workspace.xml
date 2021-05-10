@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="590d881c-8a14-4bcd-b1b4-f83564361de3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/CashbackHackerServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/CashbackHackerServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Gradle.CashbackHackerServiceTest">
+  <component name="RunManager" selected="Gradle.CashbackHackerServiceTest.shouldnotAdvice">
     <configuration name="CashbackHackerServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -149,10 +151,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CashbackHackerServiceTest.shouldnotAdvice" />
+        <item itemvalue="Gradle.CashbackHackerServiceTest.shouldAdviceHundred" />
         <item itemvalue="Gradle.CashbackHackerServiceTest" />
         <item itemvalue="Gradle.CashbackHackerServiceTest.shouldAdviceNothing" />
-        <item itemvalue="Gradle.CashbackHackerServiceTest.shouldAdviceHundred" />
-        <item itemvalue="Gradle.CashbackHackerServiceTest.shouldnotAdvice" />
         <item itemvalue="Gradle.CashbackHackerServiceTest.shouldProposeOne" />
       </list>
     </recent_temporary>
@@ -180,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619037773835</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tests were made">
+      <created>1619038157926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619038157926</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
