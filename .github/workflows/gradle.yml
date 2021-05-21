@@ -7,7 +7,7 @@ on:
   push:
     branches: [ main, junit4 ]
   pull_request:
-    branches: [ main, junit4 ]
+    branches: [ main ]
 
 jobs:
   build:
